@@ -288,6 +288,12 @@ a{
     transform: translateX(86vw) translateY(-2vh);
 }
 
+#Resume {
+    display: flex;
+}
+#Resume>img {
+    padding-left: 5px;
+}
 
 #Resume:hover {
     background: #3f3e3e;
